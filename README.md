@@ -163,7 +163,6 @@ The differences between outlets established in the same year also suggest that o
 | Programming Language | Python |
 | Data Analysis | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn |
-| Statistical Analysis | SciPy |
 | Machine Learning | Scikit-learn |
 | Interactive Application | Streamlit |
 | Dataset Format | Excel |
